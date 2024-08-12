@@ -1,1 +1,1 @@
-Simple Flask PRoject For the Hello Print
+Simple Flask Project For the Hello Print
